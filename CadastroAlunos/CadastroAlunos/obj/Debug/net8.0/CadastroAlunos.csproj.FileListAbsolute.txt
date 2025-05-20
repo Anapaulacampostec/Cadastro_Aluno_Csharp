@@ -1,0 +1,14 @@
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\net8.0\CadastroAlunos.exe
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\net8.0\CadastroAlunos.deps.json
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\net8.0\CadastroAlunos.runtimeconfig.json
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\net8.0\CadastroAlunos.dll
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\net8.0\CadastroAlunos.pdb
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.AssemblyInfoInputs.cache
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.AssemblyInfo.cs
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.dll
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\refint\CadastroAlunos.dll
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.pdb
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.genruntimeconfig.cache
+C:\Users\ana.pcmaria\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\net8.0\ref\CadastroAlunos.dll
